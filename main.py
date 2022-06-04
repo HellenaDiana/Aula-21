@@ -9,3 +9,4 @@ print(calculo)
 # Exponenciais
 # Multiplicação e Divisão
 # Adição e Subtração
+
